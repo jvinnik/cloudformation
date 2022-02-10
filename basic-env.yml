@@ -1,3 +1,7 @@
+# author: Joe Vinnik, Feb 9, 2022
+# create fully functional, internet enabled, custom VPC with test EC2
+# feel free to copy, dont forget to create ssh key
+
 AWSTemplateFormatVersion: 2010-09-09
 Description: This template deploys a VPC
 Parameters:
